@@ -1,0 +1,7 @@
+This is to test conflict.
+
+<<<<<<< HEAD
+Make changes on local.
+=======
+Make changes from server.
+>>>>>>> 7779a1adb70c6f28eb0e026b754c3b269a0df391
