@@ -1,7 +1,0 @@
-This is to test conflict.
-
-<<<<<<< HEAD
-Actually want changes from local.
-=======
-Don't really want changes from server.
->>>>>>> 9b44cc9d2daae6d23713224331f418230697d3f0
